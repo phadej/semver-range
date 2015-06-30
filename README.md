@@ -4,3 +4,7 @@
 [![Hackage](https://img.shields.io/hackage/v/semver-range.svg)](http://hackage.haskell.org/package/semver-range)
 
 Re-implementation of [node-semver](https://github.com/npm/node-semver) in Haskell
+
+---
+
+This is work in progress.
